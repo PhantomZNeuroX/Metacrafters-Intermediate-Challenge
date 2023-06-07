@@ -8,7 +8,7 @@ This project demonstrates the use of `require`, `assert` and `revert` statements
 
 ### Executing program
 
-The best way to use this program is by deploying it through the [Remix IDE](remix.ethereum.org).
+The best way to use this program is by deploying it through the [Remix IDE](https://remix.ethereum.org/).
 
 
 ## Authors
